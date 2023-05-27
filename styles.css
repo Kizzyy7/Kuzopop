@@ -116,3 +116,24 @@ h1 {
   height:200px;
   margin-top: 400px;
 }
+#pictures{
+  padding-top: 0%;
+  margin-top: 20px;
+  height:1000px;
+  position: static;
+  top:200px
+}
+
+.picture1{
+  height:200px;
+  position:absolute;
+  left:10px
+}
+.picture2{
+  height:200px;
+  position:absolute;
+  left:300px
+}
+ul {
+  list-style-type: none;
+}
